@@ -3,6 +3,18 @@
 An elegant Islamic mobile application built with *Flutter*, providing Muslims with essential daily features such as the Holy Quran, Hadith, Quran Radio, Digital Sebha, and Prayer Times through a clean and modern user interface.
 
 ---
+
+
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/a783aad8-a565-448d-9d5a-4d94a21483ab
+
+
+
+
+
+
+
 ## 📸 Screenshots
 
 > Add your screenshots inside the *screenshots* folder.
@@ -35,24 +47,6 @@ An elegant Islamic mobile application built with *Flutter*, providing Muslims wi
 <img width="250" height="500" alt="Screenshot_20260803_120235" src="https://github.com/user-attachments/assets/f1cee284-44b5-4e13-b2d8-95bdaf94c0e2" />
 
 ---
-
-## 🎥 Demo
-
- 
-
-
-https://github.com/user-attachments/assets/a783aad8-a565-448d-9d5a-4d94a21483ab
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## ✨ Features
