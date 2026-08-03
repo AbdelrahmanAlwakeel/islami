@@ -34,13 +34,20 @@ An elegant Islamic mobile application built with *Flutter*, providing Muslims wi
 
 ## 📂 Project Structure
 
-text
+text   
+
+
 lib
+
 │
 ├── core
+
 ├── model
+
 ├── ui
+
 │   ├── home
+
 │   │   ├── screen
 │   │   ├── tabs
 │   │   │   ├── quran
