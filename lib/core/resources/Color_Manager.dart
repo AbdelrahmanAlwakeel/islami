@@ -5,4 +5,10 @@ abstract final class ColorsManager{
   static const Color gold=Color(0xffE2BE7F);
   static const Color black=Color(0xff202020);
   static const Color darkGold=Color(0xffB19768);
+  static const Color gray = Color(0xFF707070);
+  static const Color offWhite = Color(0xFFFFF5E3);
+  static const Color brown = Color(0xFF946107);
+
+
+
 }

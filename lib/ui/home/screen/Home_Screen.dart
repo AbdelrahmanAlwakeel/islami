@@ -5,9 +5,12 @@ import 'package:islami/core/resources/assets_manager.dart';
 import 'package:islami/core/resources/strings_manager.dart';
 import 'package:islami/ui/home/tabs/hadeth/hadeth_tab.dart';
 import 'package:islami/ui/home/tabs/quran/quran_tab.dart';
+import 'package:islami/ui/home/tabs/radio/provider/radio_tab_provider.dart';
 import 'package:islami/ui/home/tabs/radio/radio_tab.dart';
-import 'package:islami/ui/home/tabs/sebha/sebha_tab.dart';
-import 'package:islami/ui/home/tabs/time/time_tab.dart';
+import 'package:provider/provider.dart';
+
+import '../tabs/sebha/sebha_tab.dart';
+import '../tabs/time/time_tab.dart';
 
 
 class HomeScreen extends StatefulWidget {
@@ -25,7 +28,9 @@ class _HomeScreenState extends State<HomeScreen> {
     QuranTab(),
     HadethTab(),
     SebhaTab(),
-    RadioTab(),
+    ChangeNotifierProvider(
+      create: (context)=>RadioTabProvider(),
+        child: const RadioTab()),
     TimeTab()
   ];
   @override
