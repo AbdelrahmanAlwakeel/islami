@@ -34,7 +34,6 @@ An elegant Islamic mobile application built with *Flutter*, providing Muslims wi
 
 ## 📂 Project Structure
 
-text   
 
 
 lib
