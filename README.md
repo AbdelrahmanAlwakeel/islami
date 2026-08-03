@@ -7,9 +7,12 @@ An elegant Islamic mobile application built with *Flutter*, providing Muslims wi
 
 > Add your screenshots inside the *screenshots* folder.
 
-| Splash | Home |
+|onboarding | Home |
 |--------|------|
 <img width="250" height="500" alt="Screenshot_20260803_121209" src="https://github.com/user-attachments/assets/4a39e7cb-7840-4459-a4fd-b0bcf5c765b1" />
+<img width="250" height="500" alt="Screenshot_20260803_121253" src="https://github.com/user-attachments/assets/167eb869-9acb-44f9-9b56-5f10c4569ce8" />
+<img width="250" height="500" alt="Screenshot_20260803_121219" src="https://github.com/user-attachments/assets/bfb160ef-64d1-46b3-8096-f568453bb737" />
+
 
 
 <img width="250" height="500" alt="Screenshot_20260803_120104" src="https://github.com/user-attachments/assets/a9e95111-949e-44e8-9d75-a0be8a5797cd" />
