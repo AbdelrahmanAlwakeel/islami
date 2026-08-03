@@ -9,6 +9,9 @@ An elegant Islamic mobile application built with *Flutter*, providing Muslims wi
 
 | Splash | Home |
 |--------|------|
+<img width="250" height="500" alt="Screenshot_20260803_121209" src="https://github.com/user-attachments/assets/4a39e7cb-7840-4459-a4fd-b0bcf5c765b1" />
+
+
 <img width="250" height="500" alt="Screenshot_20260803_120104" src="https://github.com/user-attachments/assets/a9e95111-949e-44e8-9d75-a0be8a5797cd" />
 
 
