@@ -49,15 +49,25 @@ lib
 │   ├── home
 
 │   │   ├── screen
+
 │   │   ├── tabs
+
 │   │   │   ├── quran
+
 │   │   │   ├── hadeth
+
 │   │   │   ├── radio
+
 │   │   │   ├── sebha
+
 │   │   │   └── time
+
 │   ├── hadeth_details
+
 │   ├── sura_details
+
 │   └── onboarding
+
 │
 └── main.dart
 
