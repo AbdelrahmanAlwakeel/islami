@@ -3,6 +3,49 @@
 An elegant Islamic mobile application built with *Flutter*, providing Muslims with essential daily features such as the Holy Quran, Hadith, Quran Radio, Digital Sebha, and Prayer Times through a clean and modern user interface.
 
 ---
+## 📸 Screenshots
+
+> Add your screenshots inside the *screenshots* folder.
+
+| Splash | Home |
+|--------|------|
+<img width="250" height="500" alt="Screenshot_20260803_120104" src="https://github.com/user-attachments/assets/a9e95111-949e-44e8-9d75-a0be8a5797cd" />
+
+
+| Quran | Hadith |
+|--------|---------|
+<img width="250" height="500" alt="Screenshot_20260803_120124" src="https://github.com/user-attachments/assets/90f50b8f-495d-4931-8fa7-fe4a0ca63dd5" />
+<img width="250" height="500" alt="Screenshot_20260803_120334" src="https://github.com/user-attachments/assets/dff181d6-12f1-4754-bc72-9fcd21f9efdb" />
+
+
+| Radio | Sebha |
+|--------|--------|
+<img width="250" height="500" alt="Screenshot_20260803_120133" src="https://github.com/user-attachments/assets/14eaddaf-4a38-460f-8e75-8e2d85868ffe" />
+<img width="250" height="500" alt="Screenshot_20260803_120145" src="https://github.com/user-attachments/assets/58b735ea-ed0c-41fb-ae06-b1da5254d105" />
+
+
+| Prayer Times |
+|---------------|
+<img width="250" height="500" alt="Screenshot_20260803_120235" src="https://github.com/user-attachments/assets/f1cee284-44b5-4e13-b2d8-95bdaf94c0e2" />
+
+---
+
+## 🎥 Demo
+
+Add your demo video here:
+
+https://github.com/user-attachments/your-video-link
+
+
+
+
+
+
+
+
+
+
+
 
 ## ✨ Features
 
@@ -73,38 +116,7 @@ lib
 
 ---
 
-## 📸 Screenshots
 
-> Add your screenshots inside the *screenshots* folder.
-
-| Splash | Home |
-|--------|------|
-<img width="250" height="500" alt="Screenshot_20260803_120104" src="https://github.com/user-attachments/assets/a9e95111-949e-44e8-9d75-a0be8a5797cd" />
-
-
-| Quran | Hadith |
-|--------|---------|
-<img width="250" height="500" alt="Screenshot_20260803_120124" src="https://github.com/user-attachments/assets/90f50b8f-495d-4931-8fa7-fe4a0ca63dd5" />
-<img width="250" height="500" alt="Screenshot_20260803_120334" src="https://github.com/user-attachments/assets/dff181d6-12f1-4754-bc72-9fcd21f9efdb" />
-
-
-| Radio | Sebha |
-|--------|--------|
-<img width="250" height="500" alt="Screenshot_20260803_120133" src="https://github.com/user-attachments/assets/14eaddaf-4a38-460f-8e75-8e2d85868ffe" />
-<img width="250" height="500" alt="Screenshot_20260803_120145" src="https://github.com/user-attachments/assets/58b735ea-ed0c-41fb-ae06-b1da5254d105" />
-
-
-| Prayer Times |
-|---------------|
-<img width="250" height="500" alt="Screenshot_20260803_120235" src="https://github.com/user-attachments/assets/f1cee284-44b5-4e13-b2d8-95bdaf94c0e2" />
-
----
-
-## 🎥 Demo
-
-Add your demo video here:
-
-https://github.com/user-attachments/your-video-link
 
 ---
 
