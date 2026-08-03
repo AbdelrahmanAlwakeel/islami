@@ -38,9 +38,11 @@ An elegant Islamic mobile application built with *Flutter*, providing Muslims wi
 
 ## 🎥 Demo
 
-Add your demo video here:
+ 
 
-https://github.com/user-attachments/your-video-link
+
+https://github.com/user-attachments/assets/a783aad8-a565-448d-9d5a-4d94a21483ab
+
 
 
 
