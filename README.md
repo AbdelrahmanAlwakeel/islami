@@ -1,16 +1,150 @@
-# islami
+# 📖 Islami App
 
-A new Flutter project.
+An elegant Islamic mobile application built with *Flutter*, providing Muslims with essential daily features such as the Holy Quran, Hadith, Quran Radio, Digital Sebha, and Prayer Times through a clean and modern user interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📖 Browse and read the Holy Quran.
+- 📜 Read a collection of Islamic Hadith.
+- 📻 Listen to live Quran Radio stations.
+- 📿 Digital Sebha Counter.
+- 🕌 View daily Prayer Times.
+- 🎨 Clean and responsive UI.
+- ⚡ Fast and smooth performance.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Provider
+- Flutter Bloc
+- Dio
+- Get It
+- Flutter SVG
+- Just Audio
+- Flutter ScreenUtil
+- JSON Annotation
+- JSON Serializable
+
+---
+
+## 📂 Project Structure
+
+text
+lib
+│
+├── core
+├── model
+├── ui
+│   ├── home
+│   │   ├── screen
+│   │   ├── tabs
+│   │   │   ├── quran
+│   │   │   ├── hadeth
+│   │   │   ├── radio
+│   │   │   ├── sebha
+│   │   │   └── time
+│   ├── hadeth_details
+│   ├── sura_details
+│   └── onboarding
+│
+└── main.dart
+
+
+---
+
+## 📸 Screenshots
+
+> Add your screenshots inside the *screenshots* folder.
+
+| Splash | Home |
+|--------|------|
+<img width="250" height="500" alt="Screenshot_20260803_120104" src="https://github.com/user-attachments/assets/a9e95111-949e-44e8-9d75-a0be8a5797cd" />
+
+
+| Quran | Hadith |
+|--------|---------|
+<img width="250" height="500" alt="Screenshot_20260803_120124" src="https://github.com/user-attachments/assets/90f50b8f-495d-4931-8fa7-fe4a0ca63dd5" />
+<img width="250" height="500" alt="Screenshot_20260803_120334" src="https://github.com/user-attachments/assets/dff181d6-12f1-4754-bc72-9fcd21f9efdb" />
+
+
+| Radio | Sebha |
+|--------|--------|
+<img width="250" height="500" alt="Screenshot_20260803_120133" src="https://github.com/user-attachments/assets/14eaddaf-4a38-460f-8e75-8e2d85868ffe" />
+<img width="250" height="500" alt="Screenshot_20260803_120145" src="https://github.com/user-attachments/assets/58b735ea-ed0c-41fb-ae06-b1da5254d105" />
+
+
+| Prayer Times |
+|---------------|
+<img width="250" height="500" alt="Screenshot_20260803_120235" src="https://github.com/user-attachments/assets/f1cee284-44b5-4e13-b2d8-95bdaf94c0e2" />
+
+---
+
+## 🎥 Demo
+
+Add your demo video here:
+
+https://github.com/user-attachments/your-video-link
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+bash
+git clone https://github.com/AbdelrahmanAlwakeel/islami.git
+
+
+### Navigate to the project
+
+bash
+cd islami
+
+
+### Install dependencies
+
+bash
+flutter pub get
+
+
+### Run the app
+
+bash
+flutter run
+
+
+---
+
+## 📦 Packages
+
+- provider
+- flutter_bloc
+- dio
+- get_it
+- easy_localization
+- flutter_svg
+- flutter_screenutil
+- just_audio
+- json_annotation
+- json_serializable
+- build_runner
+
+---
+
+## 👨‍💻 Author
+
+*Abdelrahman Alwakeel*
+
+GitHub:
+https://github.com/AbdelrahmanAlwakeel
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to leave a ⭐ on the repository.
